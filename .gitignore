@@ -1,0 +1,9 @@
+.idea/
+.vscode/
+node_modules/
+.webpack
+build/
+tmp/
+temp/
+.env
+.serverless/*
